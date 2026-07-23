@@ -5,7 +5,7 @@ This project is VERY early in its progress, I wouldn't be surprised if this proj
 ## Current Progress
 - [x] GOD Files
 - [x] C++ Converted files
-- [X] Launchable EXE (on SSE2+ hardware, non SSE2 capable hw in testing)
+- [X] Launchable EXE (on AVX2+ hardware, non AVX2 capable hw in testing)
 - [ ] Installer EXE (provide your own files)
 ### Optional features
 - [ ] Adjustable graphics settings
