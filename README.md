@@ -1,5 +1,7 @@
 # PGR4-Decomp
 This project intends to decompile (and eventually port to pc) Project Gotham Racing 4.
+### Please note:
+This project is VERY early in its progress, I wouldn't be surprised if this project is in a playable state by 2027 at the EARLIEST
 ## Current Progress
 - [x] GOD Files
 - [ ] C++ Converted files
