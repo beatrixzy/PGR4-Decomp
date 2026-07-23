@@ -13,5 +13,4 @@ This project intends to decompile (and eventually port to pc) Project Gotham Rac
 * ANY help is appreciated greatly, feel free to contribute to this project!
 ## Credits
 * [XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - For the first start at converting the game to C++
-* Parallels Desktop - For allowing me to use apps I couldn't run natively on my mac
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - For allowing me to delve into the XEX when needed
