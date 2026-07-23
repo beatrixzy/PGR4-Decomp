@@ -5,7 +5,7 @@ This project is VERY early in its progress, I wouldn't be surprised if this proj
 ## Current Progress
 - [x] GOD Files
 - [x] C++ Converted files
-- [ ] Launchable EXE
+- [X] Launchable EXE
 - [ ] Installer EXE (provide your own files)
 ### Optional features
 - [ ] Adjustable graphics settings
