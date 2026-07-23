@@ -4,7 +4,7 @@ This project intends to decompile (and eventually port to pc) Project Gotham Rac
 This project is VERY early in its progress, I wouldn't be surprised if this project is in a playable state by 2027 at the EARLIEST
 ## Current Progress
 - [x] GOD Files
-- [ ] C++ Converted files
+- [x] C++ Converted files
 - [ ] Launchable EXE
 ### Optional features
 - [ ] Adjustable graphics settings
