@@ -12,5 +12,6 @@ This project intends to decompile (and eventually port to pc) Project Gotham Rac
 * This is a ONE person effort at the current moment in time, commits will NOT be frequent.
 * ANY help is appreciated greatly, feel free to contribute to this project!
 ## Credits
-* [XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - For the first start at converting the game to C++
+* [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk) - For allowing C++ to be generated AHEAD
+* Tera in the ReXGlue Discord - For allowing me to pick up from where they left off with ReXGlue
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - For allowing me to delve into the XEX when needed
