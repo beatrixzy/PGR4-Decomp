@@ -1,5 +1,13 @@
 # PGR4-Decomp
 This project intends to decompile (and eventually port to pc) Project Gotham Racing 4.
+## Current Progress
+* GOD Files [x]
+* C++ Converted files []
+* Launchable EXE []
+### Optional features
+* Adjustable graphics settings []
+* Online (unlikely) []
+* Mod Support (equally as unlikely as online) []
 ## Notes
 * This is a ONE person effort at the current moment in time, commits will NOT be frequent.
 * ANY help is appreciated greatly, feel free to contribute to this project!
