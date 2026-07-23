@@ -6,6 +6,7 @@ This project is VERY early in its progress, I wouldn't be surprised if this proj
 - [x] GOD Files
 - [x] C++ Converted files
 - [ ] Launchable EXE
+- [ ] Installer EXE (provide your own files)
 ### Optional features
 - [ ] Adjustable graphics settings
 - [ ] Online (unlikely)
