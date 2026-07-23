@@ -17,4 +17,5 @@ This project is VERY early in its progress, I wouldn't be surprised if this proj
 ## Credits
 * [ReXGlue SDK](https://github.com/rexglue/rexglue-sdk) - For allowing C++ to be generated AHEAD
 * Tera in the ReXGlue Discord - For allowing me to pick up from where they left off with ReXGlue
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - For allowing me to delve into the XEX when needed
+* xextool - For allowing me to extract my XEX from a dumped ISO (seriously, that was a LIFE saver)
+
