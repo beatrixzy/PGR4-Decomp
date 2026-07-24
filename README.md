@@ -5,7 +5,7 @@ This project intends to decompile (and eventually port to pc) Project Gotham Rac
 ## How to run:
 * Go into the directory containing ``pgr4.exe``
 * Go to the top bar in Windows, click, then type "cmd"
-* In the newly opened command prompt window, type ``pgr4.exe --game_data_root [directory/where/extracted/pgr4/files/are/located]
+* In the newly opened command prompt window, type ``pgr4.exe --game_data_root [directory/where/extracted/pgr4/files/are/located]``
 * The game should launch! Please note UI bugs on NVIDIA GPU's are known, Intel GPU's don't seem to have this issue and AMD GPU's are unknown at this time.
 
 ### Please note:
