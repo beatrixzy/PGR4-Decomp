@@ -6,7 +6,7 @@ This project is VERY early in its progress, however updates are quite frequent!
 ## Current **known** issues
 * Pre-AVX2 Machines can't run this at the moment (a DLL should be able to fix this)
 * NVIDIA Cards (or at least, mine) have some graphical issues
-
+* Crashes on Steam Deck (possible proton issue, Lutris testing soon)
 ## Current Progress
 - [x] GOD Files
 - [x] C++ Converted files
