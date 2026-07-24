@@ -1,12 +1,19 @@
 # PGR4-Decomp [TESTING BRANCH]
 This project intends to decompile (and eventually port to pc) Project Gotham Racing 4.
 * a Compiled .EXE has been provided in this branch, however you need to provide your own game files (dump it as an ISO, then use XEX tool to extract and decrypt (if needed))
+
+## How to run:
+* Go into the directory containing ``pgr4.exe``
+* Go to the top bar in Windows, click, then type "cmd"
+* In the newly opened command prompt window, type ``pgr4.exe --game_data_root [directory/where/extracted/pgr4/files/are/located]
+* The game should launch! Please note UI bugs on NVIDIA GPU's are known, Intel GPU's don't seem to have this issue and AMD GPU's are unknown at this time.
+
 ### Please note:
 This project is VERY early in its progress, however updates are quite frequent!
 ## Current **known** issues
-* Pre-AVX2 Machines can't run this at the moment (a DLL should be able to fix this)
-* NVIDIA Cards (or at least, mine) have some graphical issues (appears to be some functions needed to be manually lifted)
-* Crashes on Steam Deck (possible proton issue, Lutris testing soon)
+* Pre-AVX2 machines can't run this at the moment
+* NVIDIA GPU's (or at least, mine) have some graphical issues (appears to be some functions needed to be manually lifted)
+* Crashes on Steam Deck (acts as if its loading, then crashes)
 ## Current Progress
 - [x] GOD Files
 - [x] C++ Converted files
