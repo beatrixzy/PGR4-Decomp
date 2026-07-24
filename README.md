@@ -3,8 +3,8 @@ This project intends to decompile (and eventually port to pc) Project Gotham Rac
 ### Please note:
 This project is VERY early in its progress, however updates are quite frequent!
 ## Current **known** issues
-* No audio (FFMPEG related)
 * Pre-AVX2 Machines can't run this at the moment (a DLL should be able to fix this)
+* NVIDIA Cards (or at least, mine) have some graphical issues
 
 ## Current Progress
 - [x] GOD Files
