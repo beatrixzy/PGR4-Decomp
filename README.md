@@ -1,5 +1,6 @@
-# PGR4-Decomp
+# PGR4-Decomp [TESTING BRANCH]
 This project intends to decompile (and eventually port to pc) Project Gotham Racing 4.
+a Compiled .EXE has been provided in this branch, however you need to provide your own game files (dump it as an ISO, then use XEX tool to extract and decrypt (if needed))
 ### Please note:
 This project is VERY early in its progress, however updates are quite frequent!
 ## Current **known** issues
